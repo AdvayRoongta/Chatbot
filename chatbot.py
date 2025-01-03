@@ -1,17 +1,15 @@
 import json #"self-murder" : "Suicide.", 
-
-
 import sys
-profanity=["fuck","shit","bitch","ass",]
 
+profanity=["fuck","shit","bitch","sigma"] #bruh
 
 print("\033[0;31m","FYI, this chatbot may require you to help improve it. Please use responsibly. Advay Roongta is not liable for any misuse. ","\033[0m")
-while True:  #if anyting goes wrong with dumping and loading check screenshots
+while True:  
     f= open("chatbottext.json", "r")
     
     thedict=json.load(f)=
     f.close()
-    print("     ") #for the ui, dont delete
+    print("     ") #
     print("Hi. Say something.")
     s=input()
     news=s.lower() 
