@@ -1,7 +1,7 @@
-import json #"self-murder" : "Suicide.", 
+import json 
 import sys
 
-profanity=["fuck","shit","bitch","sigma"] #bruh
+profanity=["shit","sigma"] #bruh
 
 print("\033[0;31m","FYI, this chatbot may require you to help improve it. Please use responsibly. Advay Roongta is not liable for any misuse. ","\033[0m")
 while True:  
