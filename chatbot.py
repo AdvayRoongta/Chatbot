@@ -1,7 +1,7 @@
 import json 
 import sys
 
-profanity=["shit","sigma"] #bruh
+profanity=["rizz","sigma"] #bruh
 
 print("\033[0;31m","FYI, this chatbot may require you to help improve it. Please use responsibly. Advay Roongta is not liable for any misuse. ","\033[0m")
 while True:  
