@@ -14,5 +14,4 @@ Features:
 
 Please use responsibly
 
-Please read the slack messages if confused about being update, permission by Bartosz:
-https://hackclub.slack.com/archives/C07PZNMBPBN/p1733688033853929
+Made for Hackclub High Seas
